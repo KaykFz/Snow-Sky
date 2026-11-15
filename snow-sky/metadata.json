@@ -1,6 +1,0 @@
-{
-  "name": "HOVERLINE",
-  "description": "Um platformer 2D de precisão em pixel art estilo Celeste onde Maya desliza pelo gelo e corre pelas paredes com seu hoverboard de neve.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
